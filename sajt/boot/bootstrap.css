@@ -9041,4 +9041,16 @@ a.text-dark:hover, a.text-dark:focus {
   font-size: 30px;
   color: gray;
 }
+#navBar{
+  width: 100%;
+  margin: none;
+}
+#a1,#a2,#a3,#a4{
+  color: white;
+  float: right;
+}
+.navbar-nav > li.navbar-right {
+  float: right !important;
+}
+
 
