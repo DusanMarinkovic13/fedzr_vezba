@@ -9028,10 +9028,17 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6;
   }
 }
+
 /*# sourceMappingURL=bootstrap.css.map */
 .container{
-  /*display: none;*/
-  width: 40%;
-  height: auto;
-  background-color: #eaf0f7;
+  border: 2px solid black;
 }
+#ime{
+  font-size: 50px;
+  font-weight: bold;
+}
+#zanimanje{
+  font-size: 30px;
+  color: gray;
+}
+
