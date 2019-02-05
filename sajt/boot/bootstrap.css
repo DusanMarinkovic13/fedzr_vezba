@@ -9049,8 +9049,15 @@ a.text-dark:hover, a.text-dark:focus {
   color: white;
   float: right;
 }
-.navbar-nav > li.navbar-right {
-  float: right !important;
+.mainCont{
+  display: flex;
+}
+#naslov{
+  text-align: right;
+}
+.text{
+  text-align: justify;
+
 }
 
 
